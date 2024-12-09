@@ -80,10 +80,7 @@ converter.text_to_image('input_text.txt', 'output_image.png')
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Contact
-Your Name - your.email@example.com
+Your Name - kabra.prakhar09@gmail.com
 
-Project Link: [https://github.com/your-username/image-processor](https://github.com/YASH-Prakhar/ImageProcessor)
+Project Link: [https://github.com/YASH-Prakhar/ImageProcessor](https://github.com/YASH-Prakhar/ImageProcessor)

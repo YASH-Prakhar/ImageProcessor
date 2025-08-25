@@ -82,5 +82,7 @@ converter.text_to_image('input_text.txt', 'output_image.png')
 
 ## Contact
 Your Name - Prakhar Kabra
+
 Contributors - Sanika Patade, Ishita Porwal
+
 Project Link: [https://github.com/YASH-Prakhar/ImageProcessor](https://github.com/YASH-Prakhar/ImageProcessor)

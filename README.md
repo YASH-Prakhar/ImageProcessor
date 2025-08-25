@@ -40,7 +40,7 @@ The project leverages the following Python libraries and technologies:
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/image-processor.git
+git clone https://github.com/YASH-Prakhar/image-processor.git
 ```
 
 2. Install required dependencies
@@ -81,6 +81,6 @@ converter.text_to_image('input_text.txt', 'output_image.png')
 5. Open a Pull Request
 
 ## Contact
-Your Name - kabra.prakhar09@gmail.com
-
+Your Name - Prakhar Kabra
+Contributors - Sanika Patade, Ishita Porwal
 Project Link: [https://github.com/YASH-Prakhar/ImageProcessor](https://github.com/YASH-Prakhar/ImageProcessor)
